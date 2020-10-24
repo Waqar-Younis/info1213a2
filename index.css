@@ -1,0 +1,82 @@
+
+.MyPicture {
+padding-top: 10px;
+height: 200px;
+	width: 200px;
+	border-radius: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#top-title {
+	text-align: center;
+	background-color: #9ea984;
+}
+
+#slideShow {
+	text-align: center;
+	background-color: #9ea984;
+}
+
+#PersonalHobbies {
+	padding: 8% 17%;
+
+}
+
+.Hobbies {
+	text-align: center;
+	padding: 5%;
+}
+
+.fas {
+	color: #9ea984;
+
+
+}
+
+.fas:hover {
+	color: #8cb369;
+}
+
+.skills {
+	text-align: center;
+}
+
+.value {
+	width: 30%;
+}
+
+.source {
+	width: 30%;
+}
+
+.moores {
+	width: 30%;
+}
+
+.Findme {
+	text-align: center;
+	background-color: #acacac;
+
+}
+
+.icon {
+	padding: 5%;
+}
+
+.fab {
+	color: #9ea984;
+
+}
+
+.fab:hover {
+	color: #8cb369;
+}
+
+.far {
+	color: #9ea984;
+}
+
+.far:hover {
+	color: #8cb369;
+}

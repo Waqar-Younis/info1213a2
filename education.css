@@ -1,0 +1,19 @@
+.edu-card {
+	width: 18rem;
+}
+
+.form-group {
+	text-align: center;
+}
+
+#School {
+	text-align: center;
+}
+
+.fas {
+	color: #9ea984;
+}
+
+.fas:hover {
+	color: #8cb369;
+}
